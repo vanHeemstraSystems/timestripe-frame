@@ -5,6 +5,8 @@ timestripe-frame
 
 Based on "Timestripe" at https://timestripe.com/
 
+Based on "How to not pay for Timetsripe PRO" at https://timestripe.com/magazine/blog/how-to-not-pay-for-timestripe-pro/
+
 Based on "A Step-by-Step Guide to Build a Minimum Viable Product (MVP)" at https://www.netsolutions.com/hub/minimum-viable-product/build
 
 Based on "Frame" at https://github.com/creations-global/frame
