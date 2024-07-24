@@ -1,7 +1,13 @@
-repository-name
-# Repository Name
+timestripe-frame
+# Timestripe - Frame
 
-Based on "ABC" at https://www.abc.com/
+> Goal Management of Frame
+
+Based on "Timestripe" at https://timestripe.com/
+
+Based on "A Step-by-Step Guide to Build a Minimum Viable Product (MVP)" at https://www.netsolutions.com/hub/minimum-viable-product/build
+
+Based on "Frame" at https://github.com/creations-global/frame
 
 ## 100 - Introduction
 
